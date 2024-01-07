@@ -1,0 +1,75 @@
+.banner{
+    background-image: url("Banner\ Image.png");
+    width: 80%;
+    max-width: 1322px;
+    margin: 0 auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.happy-new-year{
+    padding: 80px 150px;
+    margin-bottom: 40px;
+    color: #231996;
+
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+
+/* text color text color */
+/* text color text color */
+
+
+.happy-new-year-pic-text{
+padding: 50px 500px;
+text-align: center;
+font-family: 'Merriweather', serif;
+font-family: Inter;
+}
+
+
+.off-text{
+    color: #F00;
+
+text-align: center;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.our-holiday{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.ALL-CATEGORIES{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.new-year-img{
+
+    width: 770px;
+    max-width: 1322px;
+    margin: 0 auto;
+    
+   
+
+
+}
+
