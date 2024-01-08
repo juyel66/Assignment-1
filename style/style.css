@@ -84,37 +84,40 @@ line-height: normal;
     height: 600px;
     margin: 0 auto;
 }
+.second-banner-text-and-img{
+    display: flex;
+    justify-content: space-between;
+    padding: 110px;
 
+}
 
 .welcome-to-midnight-party{
-color: #FFF;
-font-family: 'Merriweather', serif;
+    color: #FFF;
 
+font-family: Merriweather;
 font-size: 64px;
 font-style: normal;
 font-weight: 900;
-line-height: 88px; /* 137.5% */
+line-height: 88px;
 letter-spacing: 7.04px;
 }
-.second-banner-description{
+
+.second-banner-descriptin{
+
+    color: rgba(255, 255, 255, 0.80);
+
 font-family: Inter;
 font-size: 18px;
-font-style: normal;
 font-weight: 400;
 line-height: 30px;
-color: #FFFFFFCC;
-}
-
-.second-banner-text{
-    padding: 100px 120px ;
 }
 
 
-.join-now{
-    font-family: 'Merriweather', serif;
-    font-size: 20px;
-
+a{
+    text-decoration: none;
+    color: white;
 }
+
 
 
 
