@@ -133,6 +133,7 @@ a{
     margin: 0 auto;
     background-size: contain;
     
+    
 
 }
 
@@ -194,6 +195,7 @@ padding: 15px 35px;
     background-size: contain;
     padding-top: 50px;
     gap: 100px;
+    justify-content: space-between;
     
 
 }
@@ -264,9 +266,10 @@ line-height: 32px; /* 160% */
 height: 140px;
 flex-shrink: 0;
 }
-.happy-new{
-    padding-right: 50px;
-}
+/* .happy-new{
+   margin-left:120px;
+
+} */
 
 
 
