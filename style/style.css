@@ -1,21 +1,19 @@
 .banner{
     background-image: url("Banner\ Image.png");
-    width: 80%;
-    max-width: 1322px;
-    margin: 0 auto;
-    background-size: contain;
     background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    margin: 0 auto;
 }
 .happy-new-year{
-    padding: 80px 150px;
+    padding-left: 270px;
     margin-bottom: 40px;
-    color: #231996;
-
-    text-align: center;
+    color: #ffffff;
     font-family: 'Merriweather', serif;
-    font-size: 42px;
-    font-style: normal;
-    font-weight: 700;
+    font-size: 62px;
+    text-align: center;
+   
 }
 
 
@@ -128,17 +126,19 @@ a{
 /* fourth part */
 
 .place-date-time-bg-color{
-    background-color: antiquewhite;
-    width: 80%;
+    background-color: rgb(243, 239, 239);
+    /* width: 80%;
     max-width: 1322px;
+    margin: 0 auto; */
+
+    width: 1320px;
+    height: 600px;
+    display: flex;
     margin: 0 auto;
     background-size: contain;
     text-align: center;
     margin-top: 110px;
     height:400px;
-
-
-
 }
 
 .place-date-time{
@@ -384,20 +384,21 @@ line-height: 32px; /* 160% */
 
 }
 .user-input{
-    border-radius: 50px;
+border-radius: 50px;
 background: #FFF;
-width: 648px;
+width: 548px;
 height: 72px;
-flex-shrink: 0;
 }
+
+
 .user-btn{
     border-radius: 0px 50px 50px 0px;
 background: #F00;
 width: 210px;
 height: 72px;
-flex-shrink: 0;
 color: white;
 border: 0px;
+margin-right: 100px;
 }
 
 
@@ -412,6 +413,7 @@ border: 0px;
     margin-top: 110px;
     padding: 80px 0px;
 }
+
 
 .upper-text{
     display: flex;
@@ -440,6 +442,20 @@ line-height: 40px;
 gap: 900px;
     
 }
+
+.last-btn{
+    border-radius: 8px;
+background: #F00;
+border: 0px;
+color: white;
+font-size: 20px;
+font-weight: 700px;
+padding: 15px 35px;
+font-family: Inter;
+
+}
+
+
 
 
 
