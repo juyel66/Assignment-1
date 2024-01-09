@@ -400,28 +400,46 @@ color: white;
 border: 0px;
 }
 
+
+
 .footer-section{
-    background: #070211;
-    /* width: 1600px;
-    height: 609px;
-    flex-shrink: 0; */
-
-    font-family: Inter;
-    font-size: 24px;
-    font-weight: 500;
-    line-height: 120px;
-
+    height: 600px;
+    display: flex;
+    margin: 0 auto;
+    background-color: #070211;
+    padding-top: 80px;
+    max-width: 1522px;
+    background-size: contain;
+    margin-top: 110px;
+    padding: 80px 0px;
 }
-.call-website-text-number{
+
+.upper-text{
     display: flex;
     justify-content: space-between;
-    padding: 120px 140px 400px;
-    color: #FFF;
-    font-family: Inter;
-    font-size: 24px;
-    font-weight: 500;
-    line-height: 40px;
 }
+
+.c-text{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+margin-left: 100px;
+}
+.i-text{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+margin-left: 700px;
+}
+
 
 
 
