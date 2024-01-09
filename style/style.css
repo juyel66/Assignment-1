@@ -404,7 +404,6 @@ border: 0px;
 
 .footer-section{
     height: 600px;
-    display: flex;
     margin: 0 auto;
     background-color: #070211;
     padding-top: 80px;
@@ -416,29 +415,32 @@ border: 0px;
 
 .upper-text{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    gap: 700px;
+}
+.icon{
+    text-align: center;
+    padding-top: 80px;
 }
 
-.c-text{
-    color: #FFF;
-
+.copyright-btn{
+display: flex;
+justify-content: center;
+color: #FFF;
 font-family: Inter;
 font-size: 24px;
-font-style: normal;
 font-weight: 500;
 line-height: 40px;
-margin-left: 100px;
+gap: 900px;
+    
 }
-.i-text{
-    color: #FFF;
 
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: 40px;
-margin-left: 700px;
-}
 
 
 
